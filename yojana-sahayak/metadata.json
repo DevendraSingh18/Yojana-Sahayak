@@ -1,0 +1,6 @@
+{
+  "name": "Yojana Sahayak",
+  "description": "An AI-powered assistant designed to help Indian citizens discover, understand, compare, and apply for government schemes and welfare programs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
